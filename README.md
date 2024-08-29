@@ -1,7 +1,7 @@
 # ERGONOMIC-ANALYSIS-USING-RULA-AND-REBA
 
-Purpose Page
-Introduction
+**Purpose Page**
+**Introduction**
 An innovative model utilizing Pose Estimation, incorporating RULA (Rapid Upper Limb Assessment) and REBA (Rapid Entire Body Assessment) for effective ergonomic analysis.
 
 Objectives
